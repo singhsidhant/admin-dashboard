@@ -1,0 +1,14 @@
+.notfound {
+    width: 100%; /* Set full width */
+    height: 100vh; /* Set full height */
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: black; /* Set black background */
+  }
+  
+  .notfound-content {
+    color: white; /* Set text color to white */
+    font-size: 24px; /* Adjust font size */
+  }
+  
